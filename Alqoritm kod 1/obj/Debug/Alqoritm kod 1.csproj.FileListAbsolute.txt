@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Alqoritm kod 1\Alqoritm kod 1\obj\Debug\Alqoritm kod 1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Alqoritm kod 1\Alqoritm kod 1\obj\Debug\Alqoritm kod 1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Alqoritm kod 1\Alqoritm kod 1\bin\Debug\Alqoritm kod 1.exe.config
+C:\Users\ACER\source\repos\Alqoritm kod 1\Alqoritm kod 1\bin\Debug\Alqoritm kod 1.exe
+C:\Users\ACER\source\repos\Alqoritm kod 1\Alqoritm kod 1\bin\Debug\Alqoritm kod 1.pdb
+C:\Users\ACER\source\repos\Alqoritm kod 1\Alqoritm kod 1\obj\Debug\Alqoritm kod 1.exe
+C:\Users\ACER\source\repos\Alqoritm kod 1\Alqoritm kod 1\obj\Debug\Alqoritm kod 1.pdb
